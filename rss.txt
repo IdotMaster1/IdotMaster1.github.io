@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <generator>RSS Builder by B!Soft</generator>
-    <title>Duino-Coin</title>
+  <title>Duino-Coin</title>
     <link>https://duinocoin.com/</link>
     <description>Welcome to the official duinocoin RSS feed where you will find the latest news and tips about duinocoin.</description>
     <language>en-us</language>
