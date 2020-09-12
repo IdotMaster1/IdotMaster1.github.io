@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" 
-    <channel>
+	<channel>
     <title>Duino-Coin</title>
     <link>https://duinocoin.com/</link>
     <description>Welcome to the official duinocoin RSS feed where you will find the latest news and tips about duinocoin.</description>
